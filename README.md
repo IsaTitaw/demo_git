@@ -3,3 +3,5 @@ Une demo de git qui fonctionne finalement :-)
 
 
 et maintenant modifiée depuis github 
+
+et aussi en local 
